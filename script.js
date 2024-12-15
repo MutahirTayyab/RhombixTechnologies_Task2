@@ -61,7 +61,6 @@ const tracks = [
         image: "images/YKWIM-song.jpg"
     }
 ];
-
 let currentTrackIndex = 0;
 let isPlaying = false;
 const audio = new Audio();
